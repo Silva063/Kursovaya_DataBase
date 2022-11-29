@@ -1,0 +1,15 @@
+C:\Users\anato\source\repos\Kursovaya\bin\Debug\Kursovaya.exe.config
+C:\Users\anato\source\repos\Kursovaya\bin\Debug\Kursovaya.exe
+C:\Users\anato\source\repos\Kursovaya\bin\Debug\Kursovaya.pdb
+C:\Users\anato\source\repos\Kursovaya\obj\Debug\Kursovaya.csproj.AssemblyReference.cache
+C:\Users\anato\source\repos\Kursovaya\obj\Debug\Kursovaya.csproj.SuggestedBindingRedirects.cache
+C:\Users\anato\source\repos\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+C:\Users\anato\source\repos\Kursovaya\obj\Debug\Kursovaya.F_Prosmotr.resources
+C:\Users\anato\source\repos\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+C:\Users\anato\source\repos\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+C:\Users\anato\source\repos\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\anato\source\repos\Kursovaya\obj\Debug\Kursovaya.exe
+C:\Users\anato\source\repos\Kursovaya\obj\Debug\Kursovaya.pdb
+C:\Users\anato\source\repos\Kursovaya\obj\Debug\Kursovaya.F_Insert.resources
+C:\Users\anato\source\repos\Kursovaya\obj\Debug\Kursovaya.F_Find_N_Delete.resources
+C:\Users\anato\source\repos\Kursovaya\obj\Debug\Kursovaya.F_Request.resources
